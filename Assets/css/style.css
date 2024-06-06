@@ -1,0 +1,51 @@
+.texth1
+{
+    text-align: center;
+}
+.bg-blue
+{
+    background: blue;
+}
+.mx-auto
+{
+    margin: auto;
+}
+.flex
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.button
+{
+    padding: 25px;
+    margin: 0 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 70px;
+    font-size: 15px;
+}
+.flex-col
+{
+    flex-direction: column;
+}
+.row
+{
+    margin: 7px 0 0 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.button .hover
+{
+    color: yellow;
+}
+.row .input
+{
+    margin: 0px 0px 10px 0px;
+    padding: 10px 20px 10px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
